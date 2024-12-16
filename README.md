@@ -1,2 +1,2 @@
-# libft-superprime
-pinga
+# libft
+
